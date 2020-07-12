@@ -1,5 +1,5 @@
 # Firedump
-A GUI program that dumps Firefox browser data like History, Downloads and Bookmarks 
+A GUI program written in python that dumps Firefox browser data like History, Downloads and Bookmarks 
 
 
 To run this, You need to install PyQt5 and can be done using the following
